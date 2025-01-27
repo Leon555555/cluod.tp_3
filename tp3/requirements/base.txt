@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+tortoise-orm
+aerich
+asyncpg
+psycopg2-binary
+fastapi
+uvicorn
+tortoise-orm
+aerich
+asyncpg
+psycopg2-binary
+tomli
+tomlkit
